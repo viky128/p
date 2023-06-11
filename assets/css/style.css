@@ -749,7 +749,7 @@ main {
 }
 
 .clients-item img {
-  width: 70%;
+  width: 60%;
   transition: var(--transition-1);
 }
 
